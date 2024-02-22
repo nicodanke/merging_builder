@@ -1,3 +1,7 @@
+## 0.2.7 - 2024-02-22
+### Chore
+- Updated dependencies.
+
 ## 0.2.6 - 2023-10-18
 ### Chore
 - Updated dependencies.
